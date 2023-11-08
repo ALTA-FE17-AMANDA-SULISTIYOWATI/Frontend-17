@@ -1,3 +1,4 @@
 hai 
 hello
 kita akan belajar typescript dan react js
+kita akan belajar javascript dan vue js
