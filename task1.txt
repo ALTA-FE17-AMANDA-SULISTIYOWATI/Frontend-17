@@ -1,2 +1,3 @@
 hai 
 hello
+kita akan belajar javascript dan vue js
